@@ -62,6 +62,7 @@ void printList(ListNode *head)
 
 int main()
 {
+    //samples
     vector<vector<int>> tests = {
         {},
         {1},
